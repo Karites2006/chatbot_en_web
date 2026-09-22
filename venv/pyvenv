@@ -1,0 +1,5 @@
+home = C:\Users\Usuario\AppData\Local\Python\pythoncore-3.13-64
+include-system-site-packages = false
+version = 3.13.14
+executable = C:\Users\Usuario\AppData\Local\Python\pythoncore-3.13-64\python.exe
+command = C:\Users\Usuario\AppData\Local\Python\pythoncore-3.13-64\python.exe -m venv C:\Users\Usuario\Desktop\UNI\Cursos\Introducción a la inteligencia artificial generativa a través de los grandes modelos de lenguaje\modulo_2\Práctica integración de un chatbot en una aplicación web\venv
